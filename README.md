@@ -1,8 +1,8 @@
 - 👋 Hi, I’m AKEEL-AHMAD-PEERZADA
 - 👀 I’m interested in ...web development app devlopment entrepreneurship
 - 🌱 I’m currently learning ...front end development
-- 📫 reach me at ...peerakeel9027@gmail.com  / linkedin  AKEEL AHMAD PEERZADA
-- ⚡ Fun fact: ... IS MY CRICKET
+- 📫 reach me at .. peerakeel9027@gmail.com
+- ⚡ fact: ..  CRICKET IS MY LIFE
 
 <!---
 AKEEL-AHMAD/AKEEL-AHMAD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
