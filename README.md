@@ -1,5 +1,5 @@
 - 👋 Hi, I’m AKEEL-AHMAD-PEERZADA
-- 👀 I’m interested in ...web development app devlopment entrepreneurship
+- 👀 I’m interested in ...Cyber security and Ethical hawking entrepreneurship
 - 🌱 I’m currently learning ...front end development
 - 📫 reach me at .. peerakeel9027@gmail.com
 - ⚡ fact: ..  CRICKET IS MY LIFE
