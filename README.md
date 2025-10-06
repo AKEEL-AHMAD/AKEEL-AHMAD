@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AKEEL-AHMAD-PEERZADA
 - 👀 I’m interested in ...Cyber security and Ethical hacking and entrepreneurship
-- 🌱 I’m currently learning ...front end development
+- 🌱 I’m currently learning ...Network Security and Firewall 
 - 📫 reach me at .. peerakeel9027@gmail.com
 - ⚡ fact: ..  CRICKET IS MY LIFE
 
