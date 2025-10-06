@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Cyber security and Ethical hacking and entrepreneurship
 - 🌱 I’m currently learning ...Network Security and Firewall 
 - 📫 reach me at .. peerakeel9027@gmail.com
-- ⚡ fact: ..  CRICKET IS MY LIFE
+- ⚡ fact: ..  CRICKET IS MY EMOTUON
 
 <!---
 AKEEL-AHMAD/AKEEL-AHMAD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
